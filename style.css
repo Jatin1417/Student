@@ -1,0 +1,39 @@
+nav{
+  height: 80px;
+  font-size: 40px;
+  background-color: #000000;
+  display: flex;
+  color:aliceblue;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  border-color:#000000;
+}
+th, td {
+  background-color: #FFFFFF;
+}
+.first{
+    background-color:#FFFFFF;
+}
+body{
+    background:#f2eef7;
+    background-image: url('schoolBanner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+.btn{
+    background-color:#0096FF;
+    color:#FFFFFF;
+}
+.footer{
+  background-color: #000000;
+  color: aliceblue;
+  font-size: 20px;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
